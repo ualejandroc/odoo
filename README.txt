@@ -11,3 +11,11 @@ Paso usar git en consola:
 6. git commit  // cambios en local
 7. git commit -m "Descripcion de cambios en commit"    
 8. git push origin master   // envia cambios a git pero a la seccion master si hubiera branch hay que especificar
+
+
+Ramas en git.
+
+1. git branch dev
+2. git branch prod
+3.  git checkout dev
+4. git add .   //agrega todos los archivos
